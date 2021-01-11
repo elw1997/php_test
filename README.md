@@ -1,4 +1,4 @@
-  1.PHP表單搭配PHPMailer寄信實作 [contect /sendmail]
+  1.PHP表單搭配PHPMailer寄信實作 [contect /sendmail] <p>
   2.PHP簡易檔案上傳實作 [index_file / upload / upload ]
   3.PHP簡易分頁實作 [pages]
   4.使用$_SERVER取得訪客IP實作 [guest_ip]
