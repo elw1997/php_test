@@ -14,3 +14,4 @@
  14.PHP開啟檔案-寫入檔案-關閉檔案 [ total_count.php ]<p>
  15.Captcha驗證碼分析與實作 [ captcha_index.php /captcha.php / checkcode.php ]<p>
  16.使用PHP&MySQL配合jQuery UI Autocomplete實作自動完成功能 [ auto_complete.php / search.php ]<p>
+ 17.簡易CRUD實作 [connMySQL.php / create.php / delete.php / index.php / Update.php]<p>
